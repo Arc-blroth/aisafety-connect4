@@ -1,8 +1,9 @@
 [package]
-name = "zoea"
+name = "aisafety-connect4"
 authors = ["Arc-blroth <45273859+Arc-blroth@users.noreply.github.com>"]
 license = "MIT OR Apache-2.0"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+tensorflow = "0.19.1"
