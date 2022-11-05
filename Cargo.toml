@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 tensorflow = "0.19.1"
+tensorflow-sys = "0.22.1"
